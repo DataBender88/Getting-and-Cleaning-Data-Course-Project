@@ -1,5 +1,7 @@
 # Code Book
 
+Summarizes the data fields in 'tidydata.txt'.
+
 subject
 activity
 WALKING
