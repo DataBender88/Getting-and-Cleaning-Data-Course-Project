@@ -1,15 +1,18 @@
 # Code Book
 
-Summarizes the data fields in 'tidydata.txt'.
+Summarizes the data fields in `tidydata.txt`.
 
-subject
-activity
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+## Fields
+* 'subject' - Subject ID's (1 through 30).
+* 'activity' - Activity performed by subject, yielding measurements.
+
+### Activities
+* `WALKING`
+* `WALKING_UPSTAIRS`
+* `WALKING_DOWNSTAIRS`
+* `SITTING`
+* `STANDING`
+* `LAYING`
 
 timeBodyAccelerometer-mean()-X
 timeBodyAccelerometer-mean()-Y
