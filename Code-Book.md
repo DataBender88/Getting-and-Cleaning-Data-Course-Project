@@ -3,8 +3,8 @@
 Summary of the data fields in `tidydata.txt`.
 
 ## Fields
-* 'subject' - Subject ID's (1 through 30).
-* 'activity' - Activity performed by subject, yielding measurements.
+* `subject` - Subject ID's (1 through 30).
+* `activity` - Activity performed by subject, yielding measurements.
 
 ### Activities
 * `WALKING`: subject walking on level ground
@@ -14,6 +14,7 @@ Summary of the data fields in `tidydata.txt`.
 * `STANDING`: subject standing
 * `LAYING`: subject laying down
 
+## Measurements taken by smartphone (Samsung Galaxy S II) worn on subject's waist
 * `timeBodyAccelerometer-mean()-X`
 * `timeBodyAccelerometer-mean()-Y`
 * `timeBodyAccelerometer-mean()-Z`
